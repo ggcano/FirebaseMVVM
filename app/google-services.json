@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165362921145",
+    "firebase_url": "https://usuarios-a5276.firebaseio.com",
+    "project_id": "usuarios-a5276",
+    "storage_bucket": "usuarios-a5276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165362921145:android:12a6c5fa87fd894e9a3568",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewplatzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165362921145-j3h2lkrdnptjmr1nthumgj9gcdng7cod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTWsxVwmYXoWrLSBGsSTmTHO19J_iAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165362921145-j3h2lkrdnptjmr1nthumgj9gcdng7cod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
